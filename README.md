@@ -1,3 +1,3 @@
 # veilance.github.io
 
-my first website!
+My github website documents my personal development, software skills and interests.
